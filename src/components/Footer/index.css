@@ -1,0 +1,15 @@
+.footer-container {
+  width: 90%;
+  background-color: #64748b;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+.footer-title {
+  color: rgba(0, 0, 0, 0.671);
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 600;
+}

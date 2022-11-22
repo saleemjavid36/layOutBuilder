@@ -1,0 +1,31 @@
+.nav-container {
+  background-color: #475569;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nav-content {
+  width: 85%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.nav-heading {
+  margin-top: 0;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: 700;
+}
+.input {
+  accent-color: auto|blue|initial|inherit;
+}
+.content {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 12px;
+}
